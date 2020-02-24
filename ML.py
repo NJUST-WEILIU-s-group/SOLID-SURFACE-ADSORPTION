@@ -217,6 +217,7 @@ for i in range(len(nn)):
     X.append(xi)
     y.append(yi)
 
+    
 X = np.array(X)
 y = np.array(y)
 
